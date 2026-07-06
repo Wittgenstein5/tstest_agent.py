@@ -1,3 +1,6 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:venv"
 }
+{
+     "DASHSCOPE_API_KEY": "sk-ws-H.RXYYYIE.hTQe.MEUCICPel51uTBgFZy4mYWCyinNmeBxlAPSkMyhEWEUQa0BzAiEAsPY2hl5pxIVTVXdnV5rrU1lVKt3rrk1ouViS4aHB-OE"
+}
